@@ -6,3 +6,42 @@ This is a mixed bag of resources where all three topics are discussed.
 
 * [Cody House](http://codyhouse.co/)
 * [Codrops](http://tympanus.net/codrops/)
+
+
+# CSS
+
+* [CSS Reference by Codrops](http://tympanus.net/codrops/css_reference/)
+* [CSS Animation Rocks](http://cssanimation.rocks/)
+
+
+# Preproccessors
+
+* [Sass](http://sass-lang.com/)
+* [Less](http://lesscss.org/)
+* [Stylus](http://learnboost.github.io/stylus/)
+* [CSS-Crush](http://the-echoplex.net/csscrush/)
+* [Myth](http://www.myth.io/)
+* [Rework](https://github.com/reworkcss/rework)
+
+
+# Sass
+
+* [Sass Documentation](http://sass-lang.com/)
+
+
+# Less
+
+* [Less Documentation](http://lesscss.org/)
+
+
+# Javascript
+
+* [Javascript Closures Explained](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+
+
+# Gulp
+
+* [Gulp Repo](https://github.com/gulpjs/gulp)
+* [How To: Basic Tasks in Gulp.js](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
+* [Compile Sass to CSS with Ruby Sass](https://github.com/sindresorhus/gulp-ruby-sass)
+* [Gzip plugin for Gulp](https://github.com/jstuckey/gulp-gzip)
