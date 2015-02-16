@@ -54,4 +54,4 @@ This is a mixed bag of resources where all three topics are discussed.
 * [How To: Basic Tasks in Gulp.js](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
 * [Compile Sass to CSS with Ruby Sass](https://github.com/sindresorhus/gulp-ruby-sass)
 * [Gzip plugin for Gulp](https://github.com/jstuckey/gulp-gzip)
-* [Pipe CSS through PostCSS processors with a single parse](https://github.com/w0rm/gulp-postcss)
+* [Pipe CSS through PostCSS processors with a single parse(Autoprefixer)](https://github.com/w0rm/gulp-postcss)
