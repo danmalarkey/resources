@@ -59,3 +59,8 @@ This is a mixed bag of resources where all three topics are discussed.
 * [Compile Sass to CSS with Ruby Sass](https://github.com/sindresorhus/gulp-ruby-sass)
 * [Gzip plugin for Gulp](https://github.com/jstuckey/gulp-gzip)
 * [Pipe CSS through PostCSS processors with a single parse(Autoprefixer)](https://github.com/w0rm/gulp-postcss)
+
+
+# UI Patterns
+
+* [Use Right UI Patterns — UX Pin](http://blog.uxpin.com/6264/use-right-ui-design-patterns/)
