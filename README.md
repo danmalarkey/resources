@@ -64,3 +64,8 @@ This is a mixed bag of resources where all three topics are discussed.
 # UI Patterns
 
 * [Use Right UI Patterns — UX Pin](http://blog.uxpin.com/6264/use-right-ui-design-patterns/)
+
+
+# Material Design
+
+* [Material Design Blog](http://materialdesignblog.com/)
