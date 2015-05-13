@@ -4,6 +4,7 @@ I need a place to keep resources I find online. This shall be that place.
 # UX 
 
 * [UX Checklist](http://uxchecklist.github.io/)
+* [How To Perfect Your UX with Persona Scenarios](http://www.webdesignerdepot.com/2015/04/how-to-perfect-your-ux-with-persona-scenarios/)
 
 # HTML, CSS, JS
 This is a mixed bag of resources where all three topics are discussed.
@@ -85,3 +86,12 @@ This is a mixed bag of resources where all three topics are discussed.
 # Material Design
 
 * [Material Design Blog](http://materialdesignblog.com/)
+
+# Wireframing 
+
+* [iPhone Mockup](http://iphonemockup.lkmc.ch/)
+
+
+# iOS Mockup Resources
+
+* [Launchkit](https://launchkit.io/)
